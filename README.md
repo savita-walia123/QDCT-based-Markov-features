@@ -5,4 +5,8 @@ The extracted features are stored in Excel file format. casiav1_data.xlsx and ca
 649th column contains the target class where 1 belongs to the forged class and 0 belongs to original image. These features can further be used to train a Machine 
 learning model to classify the images. 
 
+Please cite following papers if use this code: 
+1. Savita Walia, Krishan Kumar, Munish Kumar, "Unveiling digital image forgeries using Markov based quaternions in frequency domain and fusion of machine learning algorithms", Multimedia Tools and Applications (Under publication process)(More details of this publication will be added shortly)
+2. Savita Walia, Krishan Kumar, Munish Kumar, Xiao-Zhi Gao, “Fusion of handcrafted and deep features for forgery detection in digital images”, IEEE Access, Volume 9, pp. 99742 – 99755, 2021. DOI: 10.1109/ACCESS.2021.3096240.
+
 
